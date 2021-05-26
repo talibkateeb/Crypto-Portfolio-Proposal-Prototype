@@ -64,7 +64,7 @@ Click on each cell to run individually:
 
 Running this cell provides a plot of the KMeans clusters for the market data with k=4
 
-![Code Example]()
+![Code Example](https://github.com/talibkateeb/Crypto-Portfolio-Proposal-Prototype/blob/main/Example.png)
 
 ---
 
